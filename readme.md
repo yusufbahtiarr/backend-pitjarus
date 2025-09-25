@@ -26,10 +26,10 @@ backend/
 
 ## 🗄️ Setup Database (PostgreSQL)
 
-Import the schema and seed data from the provided SQL file (`postgresql.sql`).
+Import the schema and seed data from the provided SQL file (`schema_postgres.sql`).
 
 ```bash
-psql -U postgres -d database_name -f postgresql.sql
+psql -U postgres -d database_name -f schema_postgres.sql
 ```
 
 ## 🚀 How To Run
