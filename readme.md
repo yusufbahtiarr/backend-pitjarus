@@ -37,13 +37,13 @@ psql -U postgres -d database_name -f schema_postgres.sql
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yusufbahtiarr/backend-pitjaru.git
+git clone https://github.com/yusufbahtiarr/backend-pitjarus.git
 ```
 
 ### 2. Enter the project directory
 
 ```
-cd backend-pitjaru
+cd backend-pitjarus
 ```
 
 ### 3. Install dependency
