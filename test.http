@@ -1,0 +1,17 @@
+### Test GET /api/areas
+GET http://localhost:8080/api/areas
+Accept: application/json
+
+###
+
+### Test GET /api/chart with parameters
+GET http://localhost:8080/api/charts?area_id=1&from=2025-08-25&to=2025-09-25
+Accept: application/json
+
+###
+
+### Test GET /api/table with parameters
+GET http://localhost:8080/api/tables?area_id=2&from=2025-08-25&to=2025-09-25
+Accept: application/json
+
+###
